@@ -1,0 +1,63 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Arquivos de compilação Java
+*.class
+
+# Diretórios de saída do Eclipse
+bin/
+target/
+# Arquivos específicos do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos específicos do macOS
+.DS_Store
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Configurações do Eclipse
+.settings/
+.project
+.classpath
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+
+# Arquivos de configuração do XAMPP
+xampp.pid
+
+# Arquivos de configuração do MySQL
+*.cnf
